@@ -7,4 +7,4 @@ Please, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/tim-cve
 
 ## License
 
-Licensed under the MIT [LICENSE](LICENSE)
+Licensed under the GNU GENERAL PUBLIC [LICENSE](LICENSE)
